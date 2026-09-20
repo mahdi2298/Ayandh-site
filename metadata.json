@@ -1,0 +1,6 @@
+{
+  "name": "استودیو آینده - رزرواسیون و مدیریت نوبت‌ها",
+  "description": "سامانه کامل رزرواسیون نوبت و پیشخوان مدیریت اداری استودیو آینده با قابلیت ثبت درخواست، تقویم کاری، مدیریت مشتریان و خدمات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
